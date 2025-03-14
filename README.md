@@ -14,6 +14,10 @@
 - [ISP Dados RJ](https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv)
 - [Dados das Delegacias](https://github.com/vivianebatista92/roubos_e_furtos_veiculos_RJ_PowerBI/blob/main/base_dados/DP.csv)
 
+## 🔧 Ferramentas
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ## ✏️ Atividades Propostas
 
 |   **Atividades** |
@@ -24,7 +28,7 @@
  | <li> Relacionar as tabelas entre si </li>|
  | <li> Criar segmentações de Região, Delegacias, Municípios, Ano e Mês </li>|
 
- ## 📊 Análises Desenvolvidas
+ ## 📈 Análises Desenvolvidas
 
 |   **Análises Realizadas com Medidas DAX** |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -34,8 +38,9 @@
  | <li> Evolução ocorrências por ano e mês </li>|
  | <li> Roubo e Furto de Veículos vs Recuperação de Veículos, por ano e por mês </li>|
 
- ## ❓ Utilização do Projeto Localmente
+ ## ❓ Utilização do Projeto
 
+- O arquivo do Power BI, por possuir uma tabela que não é hospedada em algum site, para funcionar, deve seguir alguns passos:
 
 |   Ação   | Imagem                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -23,6 +23,7 @@
  | <li> Ainda no ETl, criar uma coluna de datas em formato ShortDate </li>|
  | <li> Cria a tabela dCalendario com linguagem M </li>|
  | <li> Relacionar as tabelas entre si </li>|
+ | <li> Criar segmentações de Região, Delegacias, Municípios, Ano e Mês </li>|
 
  ## 📊 Análises Desenvolvidas
 
@@ -36,9 +37,14 @@
 
  ## ❓ Utilização do Projeto Localmente
 
-- Ao baixar a pasta do projeto, abra o Power BI
-- Clicar em Transformar Dados:
 
+|   Ação   | Imagem                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Ao baixar a pasta do projeto, abra o Power BI    |
+|  Clicar em Transformar Dados:  | <img src="./imagens/instruções/transformar_dados.png"> |
+| Clicar em Local Base | <img src="./imagens/instruções/local_base_parametro.png">|
+| Verificar o caminho no seu computador de onde está a tabela DP e copiar | <img src="./imagens/instruções/caminho.png"> |
+| Colar esse caminho no campo valor do Local Base | <img src="./imagens/instruções/local_base_valor.png"> |
 
 
 

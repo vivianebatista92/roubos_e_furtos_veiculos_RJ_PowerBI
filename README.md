@@ -50,5 +50,10 @@
 | Verificar o caminho no seu computador de onde está a tabela DP e copiar | <img src="./imagens/instruções/caminho.png"> |
 | Colar esse caminho no campo valor do Local Base | <img src="./imagens/instruções/local_base_valor.png"> |
 
+#
 
+<p align="center">
+<img 
+    src="src/projetos_banner.gif"
+    >
 

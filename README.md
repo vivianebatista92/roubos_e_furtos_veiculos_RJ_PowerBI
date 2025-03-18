@@ -1,4 +1,4 @@
-# Análise de Roubos e Furtos no estado do Rio de Janeiro
+# Análise de Roubos e Furtos de Veículos no estado do Rio de Janeiro
 
 > ℹ️ **NOTE:** Projeto desenvolvido no curso de Análise de dados Com Power BI para plataforma [RioOn](https://rioon.rio.br/) em parceria com o [Senac RJ](https://www.rj.senac.br/).
 

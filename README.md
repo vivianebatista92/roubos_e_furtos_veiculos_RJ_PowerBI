@@ -46,7 +46,7 @@
 
 |   Ação   | Imagem                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Ao baixar a pasta do projeto, abra o Power BI    |
+|  Ao baixar a pasta do projeto, abra o Power BI    | <img  width = "20%" src="./imagens/instruções/arquivo_pbi.png">
 |  Clicar em Transformar Dados:  | <img src="./imagens/instruções/transformar_dados.png"> |
 | Clicar em Local Base | <img src="./imagens/instruções/local_base_parametro.png">|
 | Verificar o caminho no seu computador de onde está a tabela DP e copiar | <img src="./imagens/instruções/caminho.png"> |
